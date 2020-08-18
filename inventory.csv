@@ -1,0 +1,4 @@
+ID, Name, Price, Quantity, Manufacturer, Description, Unit, Status, Width, Height, Length
+1,"perfume",100.000000,10," Eurofragrance","A very attractive scent from Europe.","bottle","Available",100.000000,100.000000,100.000000
+2,"money",100.000000,2," MoneyLavah","The best money tarcker apps!!","app","Available",1.000000,1.000000,1.000000
+3,"tumbler",1200.000000,4,"Klean Kanteen","A vacuum tumbler that you can trust","bottle","Available",0.200000,0.200000,1.000000
