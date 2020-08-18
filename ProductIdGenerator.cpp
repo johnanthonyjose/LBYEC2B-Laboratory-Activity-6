@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ProductIdGenerator.hpp"
+#include "ProductIdGenerator.h"
 
 ProductIdGenerator *ProductIdGenerator::instance = nullptr;
 

@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "Dimension.hpp"
+#include "Dimension.h"
 
 Dimension::Dimension(double width, double height, double length)
 {

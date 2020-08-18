@@ -1,4 +1,4 @@
-#include "Inventory.hpp"
+#include "Inventory.h"
 
 int main()
 {

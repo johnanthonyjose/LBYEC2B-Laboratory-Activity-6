@@ -1,6 +1,6 @@
 #include <string.h>
 #include <stdio.h>
-#include "Product.hpp"
+#include "Product.h"
 
 Product::Product()
 {

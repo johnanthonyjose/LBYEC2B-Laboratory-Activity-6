@@ -1,9 +1,13 @@
+
 #include <stdlib.h>
 #include <stdio.h>
-#include "ProductList.hpp"
+#include <string.h>
+#include "ProductList.h"
 
-ProductList::ProductList()
-{
+ProductList::ProductList() {
+
+	filename = (char *)malloc(80*sizeof(char));
+	strcpy(filename, "inventory.csv");	
 }
 
 void ProductList::addProduct(Product item)

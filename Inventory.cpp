@@ -1,5 +1,6 @@
-#include "Inventory.hpp"
+#include "Inventory.h"
 
+#include <stdio.h>
 void Inventory::addProduct()
 {
     Product brandnew;
