@@ -1,5 +1,10 @@
 # Laboratory Actiivty 6 - UML Diagrams
 
+Tested on:
+
+- Windows 10, Dev Cpp, mingw gcc v4.9.2
+- Mac OS Catalina, clang++ v11
+
 ## Online Shopping Inventory
 
 You are provided with a working code for Tracking Inventory of products for online shop.
