@@ -12,6 +12,7 @@ You are provided with a working code for Tracking Inventory of products for onli
 You are tasked now to draw its UML Class Diagram.
 
 ## How to Run the Program
+[![Run on Repl.it](https://repl.it/badge/github/johnanthonyjose/LBYEC2B-Laboratory-Activity-6)](https://repl.it/github/johnanthonyjose/LBYEC2B-Laboratory-Activity-6)
 
 1. Download this repository
 
