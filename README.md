@@ -2,8 +2,8 @@
 
 Tested on:
 
-- Windows 10, Dev Cpp, mingw gcc v4.9.2
-- Mac OS Catalina, clang++ v11
+- Windows 10, Dev Cpp, mingw g++ v4.9.2
+- Mac OS Catalina, VSCode + CodeRunner, clang++ v11
 
 ## Online Shopping Inventory
 
