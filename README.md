@@ -2,7 +2,7 @@
 
 Tested on:
 
-- Windows 10, Dev Cpp, mingw g++ v4.9.2
+- Windows 10, Dev Cpp 5.11, mingw g++ v4.9.2
 - Mac OS Catalina, VSCode + CodeRunner, clang++ v11
 
 ## Online Shopping Inventory
@@ -24,7 +24,7 @@ You are tasked now to draw its UML Class Diagram.
    - We'll be using Dev Cpp Project rather than just creating a new File.
    - Click on File > Open > Navigate to the said directory on where you save "LBYEC2B-Laboratory-Activity-6-master"
    - Afterwards, click on Project > Add to Project.. > Select All .h and .cpp files inside the directory (make sure to hold shift + left click when selecting each file)
-   - When you've already added all files, click on Project > Project Options > Compiler > Code Generation > Language Standard(-std) >> Select GNU C++11
+   - When you've already added all files, click on Project > Project Options > Compiler > Code Generation > Language Standard(-std) >> Select ISO C++11
    - You should now be able to compile and run the project
 
 3. On MacOS, open your VSCode with CodeRunner
