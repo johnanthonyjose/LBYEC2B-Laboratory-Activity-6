@@ -11,7 +11,7 @@ You are tasked now to draw its UML Class Diagram.
 1. Download this repository
 
    - Click on the "Code" Button, then click "Download Zip"
-   - When the download is done, move the "Hangman-master" to your favorite directory.
+   - When the download is done, move the "LBYEC2B-Laboratory-Activity-6-master" to your favorite directory.
    - Make sure to remember your favorite directory.
 
 2. On Windows, open your Dev Cpp Project
