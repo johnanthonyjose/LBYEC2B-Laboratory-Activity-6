@@ -16,7 +16,7 @@ You are tasked now to draw its UML Class Diagram.
 
 2. On Windows, open your Dev Cpp Project
 
-   - Make sure to create Dev Cpp Project rather than just creating a new file
+   - We'll be using Dev Cpp Project rather than just creating a new File.
    - Click on File > Open > Navigate to the said directory on where you save "LBYEC2B-Laboratory-Activity-6-master"
    - Afterwards, click on Project > Add to Project.. > Select All .h and .cpp files inside the directory (make sure to hold shift + left click when selecting each file)
    - When you've already added all files, click on Project > Project Options > Compiler > Code Generation > Language Standard(-std) >> Select GNU C++11
