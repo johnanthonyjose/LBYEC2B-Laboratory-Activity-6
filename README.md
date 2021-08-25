@@ -17,9 +17,11 @@ You are tasked now to draw its UML Class Diagram.
 
 [![Run on Repl.it](https://repl.it/badge/github/johnanthonyjose/LBYEC2B-Laboratory-Activity-6)](https://repl.it/github/johnanthonyjose/LBYEC2B-Laboratory-Activity-6)
 
-1. Click on the badge icon "run on repl.it". Afterwards, go back here to read the next instruction.
-2. On the files tab (left hand side), remove the file: "repl.it"
-3. Now, you can click the run button on the center top.
+1. Click on the badge icon "run on repl.it". 
+2. You will be asked to sign-up / login. You'll have to create an account to make it work.
+3. On Repl.it IDE, Click on the run button on the center top. 
+4. You know it's successful, when the run becomes Stop. And there's already menu prompt as shown on the photo below:
+![replit](./assets/replit.jpg)
 
 ## Offline version
 
